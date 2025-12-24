@@ -3,7 +3,7 @@
 A modern React social media application built with Context API and useReducer for state management.
 
 ## ✨ Live Demo
-(Add Vercel/Netlify link if deployed)
+https://pulsefeed.netlify.app/
 
 ## 🛠️ Tech Stack
 - React
